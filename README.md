@@ -4,7 +4,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos
 
 ## Sobre mí
 
-Soy un/a entusiasta desarrollador/a de software con experiencia en #java, #javascript, #typescript, frameworks como #spring-boot, #nodejs, #nestjs, #expressjs y bases de datos como #SQLServer, #Oracle, #MySQL, #MongoDB. Me apasiona crear soluciones innovadoras y abordar desafíos tecnológicos. Disfruto trabajando en equipo y colaborando en proyectos interesantes, así como aportando  a las generaciones de #developers.
+Soy un/a entusiasta desarrollador/a de software con experiencia en `java`, `javascript`, `typescript`, frameworks como `spring-boot`, `nodejs`, `nestjs`, `expressjs` y bases de datos como `SQLServer`, `Oracle`, `MySQL`, `mongoDB`. Me apasiona crear soluciones innovadoras y abordar desafíos tecnológicos. Disfruto trabajando en equipo y colaborando en proyectos interesantes, así como aportando  a las generaciones de #developers.
 
 ## Proyectos Destacados
 
