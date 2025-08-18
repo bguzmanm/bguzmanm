@@ -35,5 +35,5 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante aquí y que podamos conectar en el mundo de la programación.
 
-### Tecnologías que uso esta semana
+### Tecnologías que usé esta semana
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bguzmanm)](https://wakatime.com/@bguzmanm)
